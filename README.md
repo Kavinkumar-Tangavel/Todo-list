@@ -19,5 +19,6 @@ Delete completed tasks
 Mark task as completed / uncompleted
 # contect
 You may contact the project maintainer here if you have any queries, recommendations, or comments:
+
 NAME: KAVINKUMAR
-E Mail: kavinkumar.t562004@gmail.com
+/n E Mail: kavinkumar.t562004@gmail.com
